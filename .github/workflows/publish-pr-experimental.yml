@@ -26,7 +26,7 @@ jobs:
       contains(github.event.pull_request.labels.*.name, 'publish-experimental') &&
       (github.event.action == 'synchronize' || github.event.label.name == 'publish-experimental')
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           ref: ${{ github.event.pull_request.head.sha }}
 
