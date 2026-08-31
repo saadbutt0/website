@@ -9667,7 +9667,7 @@ __metadata:
     react-intl: "npm:6.6.2"
     react-router-dom: "npm:6.30.4"
     styled-components: "npm:6.4.1"
-    swagger-ui-dist: "npm:4.19.0"
+    swagger-ui-dist: "npm:4.19.1"
     yaml: "npm:1.10.3"
     yup: "npm:0.32.9"
   peerDependencies:
@@ -28717,10 +28717,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"swagger-ui-dist@npm:4.19.0":
-  version: 4.19.0
-  resolution: "swagger-ui-dist@npm:4.19.0"
-  checksum: 10c0/6ef1ff8dcf304575b069a4906a12ac113e99349a0be7a7178acaac6a96b70d6a68248931de27283fed58fd50c6af2d57c79de68e72daa72f2467f03699fb9594
+"swagger-ui-dist@npm:4.19.1":
+  version: 4.19.1
+  resolution: "swagger-ui-dist@npm:4.19.1"
+  checksum: 10c0/36757c222b3c078483489b2eb797232241a96f0e9a6335d4c8168dd57024987bc146180632fa04680f0e8726a97870eaa91de0bf4c3b616c82225988984926b7
   languageName: node
   linkType: hard
 
